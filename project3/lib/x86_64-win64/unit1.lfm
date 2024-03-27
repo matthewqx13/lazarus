@@ -1,0 +1,72 @@
+object Form1: TForm1
+  Left = 256
+  Height = 594
+  Top = 120
+  Width = 618
+  Caption = 'Form1'
+  ClientHeight = 594
+  ClientWidth = 618
+  LCLVersion = '3.2.0.0'
+  object Button1: TButton
+    Left = 360
+    Height = 25
+    Top = 328
+    Width = 75
+    Caption = 'Выполнить'
+    TabOrder = 0
+    OnClick = Button1Click
+  end
+  object Label1: TLabel
+    Left = 40
+    Height = 15
+    Top = 304
+    Width = 80
+    Caption = 'Введите число'
+  end
+  object Edit1: TEdit
+    Left = 160
+    Height = 23
+    Top = 304
+    Width = 176
+    TabOrder = 1
+  end
+  object Edit2: TEdit
+    Left = 160
+    Height = 23
+    Top = 350
+    Width = 176
+    TabOrder = 2
+  end
+  object Label2: TLabel
+    Left = 40
+    Height = 15
+    Top = 350
+    Width = 89
+    Caption = 'Введите степень'
+  end
+  object BitBtn1: TBitBtn
+    Left = 496
+    Height = 30
+    Top = 539
+    Width = 88
+    Caption = 'Выход'
+    Kind = bkAbort
+    ModalResult = 3
+    OnClick = BitBtn1Click
+    TabOrder = 3
+  end
+  object Memo1: TMemo
+    Left = 16
+    Height = 280
+    Top = 16
+    Width = 592
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -27
+    Font.Name = 'Segoe UI Semibold'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold, fsItalic]
+    ParentFont = False
+    TabOrder = 4
+  end
+end

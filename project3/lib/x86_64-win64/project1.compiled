@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="D:\Games\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1482330472"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -WG -l -vewnhibq -FiC:\Users\Пользователь\Desktop\программирование\lazarus\project3\lib\x86_64-win64 -FuD:\Games\lazarus\lcl\units\x86_64-win64\win32 -FuD:\Games\lazarus\lcl\units\x86_64-win64 -FuD:\Games\lazarus\components\freetype\lib\x86_64-win64 -FuD:\Games\lazarus\components\lazutils\lib\x86_64-win64 -FuD:\Games\lazarus\packager\units\x86_64-win64 -FuC:\Users\Пользователь\Desktop\программирование\lazarus\project3\ -FUC:\Users\Пользователь\Desktop\программирование\lazarus\project3\lib\x86_64-win64\ -FEC:\Users\Пользователь\Desktop\программирование\lazarus\project3\ -oC:\Users\Пользователь\Desktop\программирование\lazarus\project3\project1.exe -dLCL -dLCLwin32 project1.lpr"/>
+</CONFIG>
